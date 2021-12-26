@@ -11,7 +11,7 @@ Original notebook: [![Open In Colab][colab-badge]][colab-notebook]
 
 audioReactive notebook: [![Open In Colab][colab-badge2]][colab-notebook2]
 
-[colab-notebook2]: <https://colab.research.google.com/github/austinhquinn/VQGAN-CLIP/audioReactive-VQGAN+CLIP with pooling.ipynb>
+[colab-notebook2]: <https://colab.research.google.com/github/austinhquinn/VQGAN-CLIP/blob/main/audioReactive_VQGAN%2BCLIP_with_pooling.ipynb>
 [colab-badge2]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 Some example images:
