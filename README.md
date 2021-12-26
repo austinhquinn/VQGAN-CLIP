@@ -9,6 +9,11 @@ Original notebook: [![Open In Colab][colab-badge]][colab-notebook]
 [colab-notebook]: <https://colab.research.google.com/drive/1ZAus_gn2RhTZWzOWUpPERNC0Q8OhZRTZ>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
+audioReactive notebook: [![Open In Colab][colab-badge2]][colab-notebook2]
+
+[colab-notebook2]: <https://colab.research.google.com/github/austinhquinn/VQGAN-CLIP/audioReactive-VQGAN+CLIP with pooling.ipynb>
+[colab-badge2]: <https://colab.research.google.com/assets/colab-badge.svg>
+
 Some example images:
 
 <img src="./samples/Cartoon3.png" width="256px"></img><img src="./samples/Cartoon.png" width="256px"></img><img src="./samples/Cartoon2.png" width="256px"></img>
